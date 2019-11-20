@@ -4,7 +4,7 @@ namespace TailSpin.SpaceGame.Web.Models
 {
     public class LeaderboardViewModel
     {
-        // The game mode selected in the view.
+        // The game mode selected in the view 1.
         public string SelectedMode { get; set; }
         // The game region (map) selected in the view.
         public string SelectedRegion { get; set; }
